@@ -13,6 +13,14 @@
                     {
                         "/": "/games/*",
                         "comment": "Meant to show game details"
+                     },
+                     {
+                        "/": "/gameset/*",
+                        "comment": "Meant to show game set details"
+                     },
+                     {
+                        "/": "/events/*",
+                        "comment": "Meant to show event details"
                      }
                 ]
             }
